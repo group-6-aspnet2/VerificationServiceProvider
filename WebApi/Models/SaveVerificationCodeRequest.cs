@@ -1,6 +1,5 @@
-﻿namespace WebApi.Models
+﻿namespace WebApi.Models;
+
+public class SaveVerificationCodeRequest
 {
-    public class SaveVerificationCodeRequest
-    {
-    }
 }

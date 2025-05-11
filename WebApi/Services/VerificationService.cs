@@ -1,6 +1,5 @@
-﻿namespace WebApi.Services
+﻿namespace WebApi.Services;
+
+public class VerificationService
 {
-    public class VerificationService
-    {
-    }
 }

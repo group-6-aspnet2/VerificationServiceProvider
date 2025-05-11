@@ -1,6 +1,5 @@
-﻿namespace WebApi.Models
+﻿namespace WebApi.Models;
+
+public class VerificationServiceResult
 {
-    public class VerificationServiceResult
-    {
-    }
 }
